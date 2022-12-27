@@ -1,6 +1,6 @@
-# The largest heading
-teacher
-## The second largest heading
-star
+# Installation
+## Install NPM package
+
+==npm install --save sha512-crypt-ts==
 ###### The smallest heading
-ci
+
